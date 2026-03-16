@@ -2,4 +2,6 @@
 Cisco IoT Hackathon Participated in the Cisco IoT Hackathon and developed an innovative IoT-based assistive technology solution aimed at improving accessibility and support for visually impaired and disabled individuals. The project successfully advanced to the final round of the competition.
 ## Project Poster
 
-![Cisco IoT Hackathon Poster](poster.png)
+<p align="center">
+  <img src="Hackathon%20Prototype.jpg" width="800">
+</p>
